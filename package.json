@@ -2,9 +2,9 @@
   "name": "webaula",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "public/index.js",
   "scripts": {
-    "devStart": "nodemon index.js"
+    "devStart": "nodemon public/index.js"
   },
   "keywords": [],
   "author": "",
