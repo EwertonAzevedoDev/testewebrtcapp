@@ -2,9 +2,12 @@
   "name": "webaula",
   "version": "1.0.0",
   "description": "",
-  "main": "public/index.js",
+  "main": "index.js",
+  "engines":{
+    "node": "14.x"
+  },
   "scripts": {
-    "devStart": "nodemon public/index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
